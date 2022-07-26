@@ -6,6 +6,7 @@
   - [contents](#contents)
   - [introduction](#introduction)
   - [getting started](#getting-started)
+  - [deployment](#deployment)
 
 ## introduction
 
@@ -33,3 +34,14 @@ deno run helloWorld.ts
 welcome to Deno runtime
 */
 ```
+
+## deployment
+
+this site is deployed for free on `https://dash.deno.com`
+
+site is live at https://philanderson888-deno.deno.dev
+
+```js
+/*
+Hello world 
+*/
